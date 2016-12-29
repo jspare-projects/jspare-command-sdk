@@ -18,12 +18,15 @@ Min file
 
 See the documentation at: http://jspare.org/framework/docs 
    
-
 ## Features
 
 	* JSpare Web Framework Integration
 	* Minimalist command integration
 	* Native yeld caller
+	
+## Project Status
+
+This project has been discontinued, we are focusing our efforts on other projects. Send mail to jspare@jspare.org.
 
 ## License
 
